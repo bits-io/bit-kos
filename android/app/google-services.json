@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928622070721",
+    "project_id": "cari-kos-56169",
+    "storage_bucket": "cari-kos-56169.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928622070721:android:30c37c1d553afcca823d40",
+        "android_client_info": {
+          "package_name": "com.bitcom.bit_kos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928622070721-cch6tvhp5199j1s2lgngkmcqoqml576l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChvej95OHEw5sgre8X61_T5eAhYYmXSHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928622070721-cch6tvhp5199j1s2lgngkmcqoqml576l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
